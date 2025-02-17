@@ -6,4 +6,7 @@
 ## - 🌱 Learning React with Tailwind CSS and Node.js Express Sequelize
 ## - 📫 Reach me at nontprawitch.saetang@gmail.com
 
+### Languages & Tools
+![HTML] (https://img.shields.io/badge/:badgeContent)
+
 ### My portfolio https://eqrthx.github.io/React_Portfolio/
